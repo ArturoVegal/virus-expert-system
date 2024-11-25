@@ -25,3 +25,6 @@ This repository contains a Prolog-based expert system that diagnoses potential v
    ```bash
    git clone https://github.com/ArturoVegal/virus-expert-system.git
    cd virus-expert-system
+   
+## License
+This project is licensed under the MIT License.
