@@ -1,0 +1,2 @@
+swi-prolog==9.2.7
+git
